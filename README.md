@@ -66,6 +66,10 @@ The _unofficial_ ChatGPT desktop application provides a convenient way to access
 
 # Prompts
 
+## Dashboard de prioridades
+
+Si quieres una vista rápida y priorizada por categoría, revisa el dashboard en español: **[dashboard.md](dashboard.md)**.
+
 ## Act as a Linux Terminal
 Contributed by: [@f](https://github.com/f)
 Reference: https://www.engraved.blog/building-a-virtual-machine-inside/
